@@ -1,0 +1,14 @@
+{
+    "launch": {
+    
+        "configurations": [{
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        }],
+        
+        "compounds": []
+    }
+}
